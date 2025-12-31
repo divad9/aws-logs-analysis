@@ -8,7 +8,7 @@
 [![Phase](https://img.shields.io/badge/Phase-1%20Complete-success)](https://github.com/yourusername/aws-logguard)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/yourusername/aws-logguard)
 
-![Architecture](diagrams/architecture.png)
+![Architecture](diagrams/logguard_architecture)
 
 ---
 
